@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sprintometer>
+  <project id="{3ABE77E1-7E38-45F5-AFBF-0833DAFA329C}" name="CCA Digitalizada" version="1400" xmlVersion="1" type="SCRUM" units="0" passwordHash="-2147483648" serverTimestamp="0" serverDocumentName="" projectLastActiveIndex="1" iterationLastActiveIndex="0" storyLastActiveIndex="1" taskLastActiveIndex="0">
+    <iteration id="{CDD94AB8-4F27-48EE-AFA2-25EB08D374DE}" no="0" name="Product Backlog" length="-1" startDate="1352808000" trackDate="1352685600" syncStatus="0">
+      <story id="{45DA5C59-CDB9-4E5E-BE85-7A3AB92DCA10}" no="0" shortName="story1" name="Cadastrar Aluno" description="As a FUNCIONARIO, I want CADASTRAR ALUNO so that ELE FIQUE CADASTRADO NO SISTEMA&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{C4864526-F557-4AB2-A6E2-5F5BFD40B793}" no="1" name="Desenvolvimento" description="Desenvolver a funcionalidade Cadastro de Aluno" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="6">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{0E3EE10F-7C8F-487C-89C4-6C762BFD13A4}" no="2" name="Teste" description="Testar a funcionalidade Cadastrar Aluno" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBDQURBU1RSQVIgQUxVTk8gc28gdGhhdCBFTEUgRklRVUUgQ0FEQVNUUkFETyBOTyBTSVNURU1BXHBhcg0KXHBhcg0KQWdyZWVtZW50czpccGFyDQoxKVxwYXINCi4uLlxwYXINClxwYXINCkFjY2VwdGFuY2UgQ3JpdGVyaWE6XHBhcg0KMSlccGFyDQouLi5ccGFyDQp9DQoA"/></story>
+      <story id="{FE2FB238-9B77-49F5-ADED-16580820DECA}" no="1" shortName="story2" name="Cadastrar Funcionario" description="As a MasterCCA, I want CADASTRAR FUNCIONARIO so that FUNCIONARIO SEJA CADASTRADO NO SISTEMA&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{6D7DBD6E-514A-4B08-AC4F-4B22D810D6EA}" no="1" name="Desenvolvimento" description="Desenvolver a funcionalidade Cadastrar Funcionario" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="6">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{CAAEBBB6-C188-4AEB-9E23-BADDCFBD0F73}" no="2" name="Teste" description="Testar a funcionalidade Cadastrar Funcionario" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgTWFzdGVyQ0NBLCBJIHdhbnQgQ0FEQVNUUkFSIEZVTkNJT05BUklPIHNvIHRoYXQgRlVOQ0lPTkFSSU8gU0VKQSBDQURBU1RSQURPIE5PIFNJU1RFTUFccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{9EE9F34B-EC13-4833-ACD6-60DFF1E6C3B6}" no="2" shortName="story3" name="Carregar Documento" description="As a FUNCIONARIO, I want CARREGAR DOCUMENTO so that O DOCUMENTO SEJA CADASTRADO NO SISTEMA E SE ASSOCIE A UM ALUNO&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{06DCBFFC-BA7A-4956-A2C3-9411E9450A5E}" no="1" name="Desenvolvimento" description="Desenvolver a funcionalidade Carregar Documento" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="12">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{2B0063DA-8311-47F9-A945-85F5DFC22BA2}" no="2" name="Teste" description="Testar a funcionalidade Carregar Documento" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="2">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBDQVJSRUdBUiBET0NVTUVOVE8gc28gdGhhdCBPIERPQ1VNRU5UTyBTRUpBIENBREFTVFJBRE8gTk8gU0lTVEVNQSBFIFNFIEFTU09DSUUgQSBVTSBBTFVOT1xwYXINClxwYXINCkFncmVlbWVudHM6XHBhcg0KMSlccGFyDQouLi5ccGFyDQpccGFyDQpBY2NlcHRhbmNlIENyaXRlcmlhOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KfQ0KAA=="/></story>
+      <story id="{07B8D53E-F9BA-46CC-92F6-1B57B39FCA88}" no="3" shortName="story4" name="Remover Usuario" description="As a MasterCCA, I want REMOVER USUARIO so that USUARIO SEJA REMOVIDO DO SISTEMA&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;Remover Funcionario e Aluno&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{98837E3C-7DF4-4F55-B156-BCD2530D0919}" no="1" name="Desenvolvimento" description="Desenvolver a funcionalidade Remover Usuário" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="4">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{62E2F4D5-3D46-41AC-8697-5B983BCC271D}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgTWFzdGVyQ0NBLCBJIHdhbnQgUkVNT1ZFUiBVU1VBUklPIHNvIHRoYXQgVVNVQVJJTyBTRUpBIFJFTU9WSURPIERPIFNJU1RFTUFccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KUmVtb3ZlciBGdW5jaW9uYXJpbyBlIEFsdW5vXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{BDA38794-F676-49F4-8C5B-E3FB0F3B7B32}" no="4" shortName="story5" name="Manter Cadastro Aluno" description="As a FUNCIONARIO, I want MODIFICAR OS DADOS DO ALUNO so that CADASTRO SEJA ATUALIZADO&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{A9FEC601-96FE-441A-BCD8-97504C1BF50A}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="7">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{EF6A926E-1D32-4CC4-BFB2-25C85A7B5308}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBNT0RJRklDQVIgT1MgREFET1MgRE8gQUxVTk8gc28gdGhhdCBDQURBU1RSTyBTRUpBIEFUVUFMSVpBRE9ccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{E40F969E-D2F0-4BDD-B19F-7663B835A2EE}" no="5" shortName="story6" name="Manter Cadastro Funcionario" description="As a MasteCCA, I want MODIFICAR OS DADOS DO FUNCIONARIO so that CADASTRO SEJA ATUALIZADO&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{A5F5C24F-A9EF-475A-995F-216BD7F319A9}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="7">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{768B4AB6-2ED8-4BD3-9650-0CC43D3E75DF}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgTWFzdGVDQ0EsIEkgd2FudCBNT0RJRklDQVIgT1MgREFET1MgRE8gRlVOQ0lPTkFSSU8gc28gdGhhdCBDQURBU1RSTyBTRUpBIEFUVUFMSVpBRE9ccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{A542D0F2-88B2-4400-8553-D8F4DF5E5549}" no="6" shortName="story7" name="Manter Curso" description="As a MasterCCA, I want INSERIR, REMOVER E MODIFICAR CURSO so that POSSA ATUALIZAR LISTA DE CURSOS OFERECIDOS PELO IFCE&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{70B43D0E-AB74-42FC-BE41-81067ADC436E}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="4">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{5DBB8881-00B4-44FC-A256-9F1C6BB7E9D4}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgTWFzdGVyQ0NBLCBJIHdhbnQgSU5TRVJJUiwgUkVNT1ZFUiBFIE1PRElGSUNBUiBDVVJTTyBzbyB0aGF0IFBPU1NBIEFUVUFMSVpBUiBMSVNUQSBERSBDVVJTT1MgT0ZFUkVDSURPUyBQRUxPIElGQ0VccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{051887D4-0F7C-4694-8EA1-67DA2DF1292A}" no="7" shortName="story8" name="Pesquisar Aluno" description="As a FUNCIONARIO, I want PESQUISAR ALUNO so that OBTENHA O CADASTRO DE UM ALUNO&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{1B1A3D84-BD42-4EC5-8EB1-2BED1FC1C0BD}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="2">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{D6088C6C-07FE-4E4B-8E9E-80F670D847CF}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBQRVNRVUlTQVIgQUxVTk8gc28gdGhhdCBPQlRFTkhBIE8gQ0FEQVNUUk8gREUgVU0gQUxVTk9ccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{280DC73E-3CE6-4507-84D4-1915EBDD1F46}" no="8" shortName="story9" name="Pesquisar Curso" description="As a FUNCIONARIO, I want PESQUISAR CURSO so that OBTENHA LISTA DE CURSOS&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{14192B36-16B6-4C20-9F2F-AA4AB482851F}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="2">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{78332026-F432-4059-9C10-D64073AE7991}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBQRVNRVUlTQVIgQ1VSU08gc28gdGhhdCBPQlRFTkhBIExJU1RBIERFIENVUlNPU1xwYXINClxwYXINCkFncmVlbWVudHM6XHBhcg0KMSlccGFyDQouLi5ccGFyDQpccGFyDQpBY2NlcHRhbmNlIENyaXRlcmlhOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KfQ0KAA=="/></story>
+      
+    <workDay date="1352808000"/></iteration>
+    <iteration id="{F4CCC793-9BFF-4F6F-948A-C4433D6F70A8}" no="1" name="Sprint 1" length="-1" startDate="1352808000" trackDate="1352685600" syncStatus="0">
+      <story id="{3559DEC0-C80D-46F3-B4DC-A46C6D2BDAFF}" no="0" shortName="story1" name="Cadastrar Aluno" description="As a FUNCIONARIO, I want CADASTRAR ALUNO so that ELE FIQUE CADASTRADO NO SISTEMA&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{62FE84AE-A7F1-40E7-9B3F-0035361328BE}" no="1" name="Desenvolvimento" description="Desenvolver a funcionalidade Cadastro de Aluno" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="6">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{5DE70125-30C9-4A26-BEC6-1DE34685CF67}" no="2" name="Teste" description="Testar a funcionalidade Cadastrar Aluno" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBDQURBU1RSQVIgQUxVTk8gc28gdGhhdCBFTEUgRklRVUUgQ0FEQVNUUkFETyBOTyBTSVNURU1BXHBhcg0KXHBhcg0KQWdyZWVtZW50czpccGFyDQoxKVxwYXINCi4uLlxwYXINClxwYXINCkFjY2VwdGFuY2UgQ3JpdGVyaWE6XHBhcg0KMSlccGFyDQouLi5ccGFyDQp9DQoA"/></story>
+      <story id="{C31E6A5A-7659-4D15-8255-6A7C23EA43A0}" no="1" shortName="story2" name="Cadastrar Funcionario" description="As a MasterCCA, I want CADASTRAR FUNCIONARIO so that FUNCIONARIO SEJA CADASTRADO NO SISTEMA&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{19C8F7C0-179C-4BF1-9225-082587619A90}" no="1" name="Desenvolvimento" description="Desenvolver a funcionalidade Cadastrar Funcionario" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="6">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{16DB4367-989E-45E6-99D7-E4DCC073DD24}" no="2" name="Teste" description="Testar a funcionalidade Cadastrar Funcionario" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgTWFzdGVyQ0NBLCBJIHdhbnQgQ0FEQVNUUkFSIEZVTkNJT05BUklPIHNvIHRoYXQgRlVOQ0lPTkFSSU8gU0VKQSBDQURBU1RSQURPIE5PIFNJU1RFTUFccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{0560E250-F1D8-43BF-80FD-F9A332CBAEBA}" no="2" shortName="story3" name="Carregar Documento" description="As a FUNCIONARIO, I want CARREGAR DOCUMENTO so that O DOCUMENTO SEJA CADASTRADO NO SISTEMA E SE ASSOCIE A UM ALUNO&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        <task id="{D2D444D8-9F5F-41D6-9966-6E977089DB9C}" no="1" name="Desenvolvimento" description="Desenvolver a funcionalidade Carregar Documento" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="12">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{F9CE2D2D-CC8C-40A9-AA5C-EAEB99520ADA}" no="2" name="Teste" description="Testar a funcionalidade Carregar Documento" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="2">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBDQVJSRUdBUiBET0NVTUVOVE8gc28gdGhhdCBPIERPQ1VNRU5UTyBTRUpBIENBREFTVFJBRE8gTk8gU0lTVEVNQSBFIFNFIEFTU09DSUUgQSBVTSBBTFVOT1xwYXINClxwYXINCkFncmVlbWVudHM6XHBhcg0KMSlccGFyDQouLi5ccGFyDQpccGFyDQpBY2NlcHRhbmNlIENyaXRlcmlhOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KfQ0KAA=="/></story>
+      
+    <workDay date="1352808000"/></iteration>
+    
+    
+    
+    
+    <iteration id="{B6D70816-0B4D-4884-9F33-D19A1CA105AC}" no="2" name="Sprint 2" length="-1" startDate="1352808000" trackDate="1352685600" syncStatus="0">
+      
+      <story id="{9F1CAB69-2741-4C47-99EA-3E88E99EB904}" no="0" shortName="story4" name="Remover Usuario" description="As a MasterCCA, I want REMOVER USUARIO so that USUARIO SEJA REMOVIDO DO SISTEMA&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;Remover Funcionario e Aluno&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        
+        <task id="{8E53DE10-EC3D-45A6-ABCB-6030DBCF8D00}" no="1" name="Desenvolvimento" description="Desenvolver a funcionalidade Remover Usuário" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="4">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{43A46A66-001E-4B58-8EA4-36D307C26E20}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgTWFzdGVyQ0NBLCBJIHdhbnQgUkVNT1ZFUiBVU1VBUklPIHNvIHRoYXQgVVNVQVJJTyBTRUpBIFJFTU9WSURPIERPIFNJU1RFTUFccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KUmVtb3ZlciBGdW5jaW9uYXJpbyBlIEFsdW5vXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{D081B04A-529F-49E5-999F-6104E6B80579}" no="1" shortName="story5" name="Manter Cadastro Aluno" description="As a FUNCIONARIO, I want MODIFICAR OS DADOS DO ALUNO so that CADASTRO SEJA ATUALIZADO&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        
+        <task id="{62B8E574-3C03-4CCE-8C22-A102FE9AAE48}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="7">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{F9234BB0-11F9-4271-A743-3BAC08AD2913}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBNT0RJRklDQVIgT1MgREFET1MgRE8gQUxVTk8gc28gdGhhdCBDQURBU1RSTyBTRUpBIEFUVUFMSVpBRE9ccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{9572E1B1-1A6A-4969-A539-75914FE59F4F}" no="2" shortName="story6" name="Manter Cadastro Funcionario" description="As a MasteCCA, I want MODIFICAR OS DADOS DO FUNCIONARIO so that CADASTRO SEJA ATUALIZADO&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        
+        <task id="{C8BD4469-C30C-4B1D-815B-B18E9E91B1AD}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="7">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{F7F7BFA4-14F6-4CB6-BA79-4872EFCACB2E}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgTWFzdGVDQ0EsIEkgd2FudCBNT0RJRklDQVIgT1MgREFET1MgRE8gRlVOQ0lPTkFSSU8gc28gdGhhdCBDQURBU1RSTyBTRUpBIEFUVUFMSVpBRE9ccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+      <story id="{8A28A0E3-801C-4453-8A3F-C52FCE44C077}" no="3" shortName="story7" name="Manter Curso" description="As a MasterCCA, I want INSERIR, REMOVER E MODIFICAR CURSO so that POSSA ATUALIZAR LISTA DE CURSOS OFERECIDOS PELO IFCE&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        
+        <task id="{39871F2F-DA49-4A68-B5C9-ACFDD9D4D172}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="4">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{E51B8BDB-2DCF-4C3D-A627-4CFDDFA49ECE}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgTWFzdGVyQ0NBLCBJIHdhbnQgSU5TRVJJUiwgUkVNT1ZFUiBFIE1PRElGSUNBUiBDVVJTTyBzbyB0aGF0IFBPU1NBIEFUVUFMSVpBUiBMSVNUQSBERSBDVVJTT1MgT0ZFUkVDSURPUyBQRUxPIElGQ0VccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+    <workDay date="1352808000"/></iteration>
+    <iteration id="{9860918C-6FFF-47AD-A220-9F1E1C06BAD6}" no="3" name="Sprint 3" length="-1" startDate="1352808000" trackDate="1352685600" syncStatus="0">
+      
+      <story id="{BFA02008-1BB7-48CF-B3B9-64B550A557C1}" no="0" shortName="story9" name="Pesquisar Curso" description="As a FUNCIONARIO, I want PESQUISAR CURSO so that OBTENHA LISTA DE CURSOS&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        
+        <task id="{426DBC8A-DB2D-49FE-B3F1-EE7576A1468A}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="2">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{734D8A02-73A9-4665-A5E4-12DDFAA359D3}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBQRVNRVUlTQVIgQ1VSU08gc28gdGhhdCBPQlRFTkhBIExJU1RBIERFIENVUlNPU1xwYXINClxwYXINCkFncmVlbWVudHM6XHBhcg0KMSlccGFyDQouLi5ccGFyDQpccGFyDQpBY2NlcHRhbmNlIENyaXRlcmlhOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KfQ0KAA=="/></story>
+      <story id="{7ACC3C7F-D07A-48FF-81C9-291224378149}" no="1" shortName="story8" name="Pesquisar Aluno" description="As a FUNCIONARIO, I want PESQUISAR ALUNO so that OBTENHA O CADASTRO DE UM ALUNO&#13;&#10;&#13;&#10;Agreements:&#13;&#10;1)&#13;&#10;...&#13;&#10;&#13;&#10;Acceptance Criteria:&#13;&#10;1)&#13;&#10;..." priority="1" syncStatus="1" rtfSynchronized="true">
+        
+        <task id="{84B10D1D-3AB6-4B07-99B2-B26E6AF5E9F5}" no="1" name="Desenvolvimento" description="" change="false" coding="true" workType="1" changeDate="1352772000" startDay="0" syncStatus="0" estimation="2">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+        <task id="{2CC8252D-EE5F-460E-9843-71D013F21225}" no="2" name="Teste" description="" change="false" coding="false" workType="2" changeDate="1352772000" startDay="0" syncStatus="0" estimation="1">
+          
+          
+        <assignedTo name=""/><assignedTo name=""/></task>
+      <rtf data="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwNDZ7XGZvbnR0Ymx7XGYwXGZuaWxcZmNoYXJzZXQwIE1TIFNoZWxsIERsZzt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxmMFxmczE3IEFzIGEgRlVOQ0lPTkFSSU8sIEkgd2FudCBQRVNRVUlTQVIgQUxVTk8gc28gdGhhdCBPQlRFTkhBIE8gQ0FEQVNUUk8gREUgVU0gQUxVTk9ccGFyDQpccGFyDQpBZ3JlZW1lbnRzOlxwYXINCjEpXHBhcg0KLi4uXHBhcg0KXHBhcg0KQWNjZXB0YW5jZSBDcml0ZXJpYTpccGFyDQoxKVxwYXINCi4uLlxwYXINCn0NCgA="/></story>
+    <workDay date="1352808000"/></iteration>
+  <workType id="0" name="Management" trackable="0"/><workType id="1" name="Coding" trackable="1"/><workType id="2" name="Testing" trackable="1"/><selectedNode name="CCA Digitalizada"><selectedNode name="Product Backlog"/></selectedNode></project>
+</sprintometer>
